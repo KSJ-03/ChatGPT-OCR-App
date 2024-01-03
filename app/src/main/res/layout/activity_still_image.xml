@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:keepScreenOn="true">
+
+    <ImageView
+        android:id="@+id/preview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        app:layout_constraintBottom_toTopOf="@+id/control"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.mlkit.vision.demo.GraphicOverlay
+        android:id="@+id/graphic_overlay"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="@id/preview"
+        app:layout_constraintLeft_toLeftOf="@id/preview"
+        app:layout_constraintRight_toRightOf="@id/preview"
+        app:layout_constraintTop_toTopOf="@id/preview" />
+
+
+    <LinearLayout
+        android:id="@+id/control"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#000"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            app:cardBackgroundColor="@color/teal"
+            app:cardCornerRadius="20dp"
+            app:contentPadding="10dp">
+
+                <TextView
+                    android:id="@+id/outputChatGPT"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:maxHeight="250dp"
+                    android:gravity="center"
+                    android:scrollbars="vertical"
+                    android:textColor="@color/white"
+                    android:textSize="20sp"
+                    tools:text="1+1=2" />
+        </androidx.cardview.widget.CardView>
+
+
+        <!--                        <TextView-->
+        <!--                            android:id="@+id/outputChatGPT"-->
+        <!--                            android:layout_width="match_parent"-->
+        <!--                            android:layout_height="wrap_content"-->
+        <!--                            android:gravity="center"-->
+        <!--                            android:textColor="@color/white"-->
+        <!--                            tools:text="1+1=2" />-->
+
+        <!--        <androidx.coordinatorlayout.widget.CoordinatorLayout-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="wrap_content">-->
+
+        <!--            <FrameLayout-->
+        <!--                android:id="@+id/standard_bottom_sheet"-->
+        <!--                style="@style/Widget.Material3.BottomSheet"-->
+        <!--                android:layout_width="match_parent"-->
+        <!--                android:layout_height="match_parent"-->
+        <!--                android:background="@drawable/rounded"-->
+        <!--                app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior">-->
+
+
+        <!--                &lt;!&ndash; Drag handle for accessibility &ndash;&gt;-->
+        <!--                <com.google.android.material.bottomsheet.BottomSheetDragHandleView-->
+        <!--                    android:id="@+id/drag_handle"-->
+        <!--                    android:layout_width="match_parent"-->
+        <!--                    android:layout_height="wrap_content" />-->
+
+        <!--                &lt;!&ndash; Bottom sheet contents. &ndash;&gt;-->
+        <!--                <TextView-->
+        <!--                    android:id="@+id/outputChatGPT"-->
+        <!--                    android:layout_width="match_parent"-->
+        <!--                    android:layout_height="wrap_content"-->
+        <!--                    android:gravity="center"-->
+        <!--                    android:textColor="@color/white"-->
+        <!--                    tools:text="1+1=2" />-->
+        <!--            </FrameLayout>-->
+        <!--        </androidx.coordinatorlayout.widget.CoordinatorLayout>-->
+
+
+        <Button
+            android:id="@+id/select_image_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="12dp"
+            android:text="@string/select_image" />
+
+        <LinearLayout
+            android:id="@+id/control2"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="#000"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toBottomOf="parent">
+
+            <Spinner
+                android:id="@+id/size_selector"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1" />
+
+            <Spinner
+                android:id="@+id/feature_selector"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <include
+        android:id="@+id/settings_button"
+        layout="@layout/settings_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintRight_toRightOf="@id/root"
+        app:layout_constraintTop_toTopOf="@id/root" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
