@@ -83,7 +83,7 @@ class TextRecognitionProcessor(
         )
 
         val receivedText = text.textBlocks.get(0).text
-
+        Log.d("TextRecog",receivedText)
         textForChatGptCallback.sendToActivity(receivedText)
 
         //create func and send to chatGpt
