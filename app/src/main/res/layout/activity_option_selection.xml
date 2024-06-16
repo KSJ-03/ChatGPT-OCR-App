@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".kotlin.activity.OptionSelectionActivity">
+
+    <TextView
+        android:id="@+id/noteTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:paddingHorizontal="15dp"
+        android:text="In the next screen select one of the two options to input the image query:"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toTopOf="@+id/takePhotoUsingCameraBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/takePhotoUsingCameraBtn"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/list_item_background2"
+        android:text="Take photo from Camera"
+        app:layout_constraintBottom_toTopOf="@id/selectImageFromGalleryBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/noteTv" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/selectImageFromGalleryBtn"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/list_item_background2"
+        android:text="Select photo from Gallery"
+        app:layout_constraintBottom_toTopOf="@+id/note2Tv"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/takePhotoUsingCameraBtn" />
+
+    <TextView
+        android:id="@+id/note2Tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:paddingHorizontal="15dp"
+        android:text="Keep only the image query in the photo to ensure accuracy in detection."
+        android:textSize="25sp"
+        app:layout_constraintBottom_toTopOf="@+id/nextScreenBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/selectImageFromGalleryBtn" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/nextScreenBtn"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:layout_marginVertical="25dp"
+        android:background="@drawable/list_item_background"
+        android:text="Click to Proceed"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/note2Tv" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

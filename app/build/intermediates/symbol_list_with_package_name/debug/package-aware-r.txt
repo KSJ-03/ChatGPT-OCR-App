@@ -2982,6 +2982,7 @@ drawable ic_settings_white_24dp
 drawable ic_switch_camera_white_48dp
 drawable ic_switch_camera_white_48dp_inset
 drawable list_item_background
+drawable list_item_background2
 drawable logo_mlkit
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
@@ -3042,6 +3043,7 @@ drawable mtrl_switch_track
 drawable mtrl_switch_track_decoration
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
+drawable next_screen_btn
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -3247,6 +3249,7 @@ id front
 id fullscreen_header
 id ghost_view
 id ghost_view_holder
+id giveAnotherInputBtn
 id gone
 id graph
 id graph_wrap
@@ -3269,6 +3272,7 @@ id image
 id imageView
 id indeterminate
 id info
+id inputTv
 id invisible
 id inward
 id italic
@@ -3356,9 +3360,12 @@ id navigation_bar_item_large_label_view
 id navigation_bar_item_small_label_view
 id navigation_header_container
 id never
+id nextScreenBtn
 id noScroll
 id none
 id normal
+id note2Tv
+id noteTv
 id notification_background
 id notification_main_column
 id notification_main_column_container
@@ -3380,6 +3387,7 @@ id open_search_view_toolbar
 id open_search_view_toolbar_container
 id outline
 id outputChatGPT
+id outputTv
 id outward
 id packed
 id parallax
@@ -3399,10 +3407,12 @@ id pressed
 id preview
 id progress_circular
 id progress_horizontal
+id queryTv
 id radio
 id ratio
 id rectangles
 id report_drawn
+id responseTv
 id reverseSawtooth
 id right
 id rightToLeft
@@ -3431,6 +3441,7 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
+id selectImageFromGalleryBtn
 id select_dialog_listview
 id select_image_button
 id select_images_from_local
@@ -3485,6 +3496,7 @@ id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
+id takePhotoUsingCameraBtn
 id take_photo_using_camera
 id test_activity_list_view
 id text
@@ -3654,6 +3666,8 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_chooser
+layout activity_option_selection
+layout activity_output
 layout activity_settings
 layout activity_still_image
 layout activity_vision_entry_choice
@@ -4028,7 +4042,7 @@ string search_menu_title
 string searchbar_scrolling_view_behavior
 string searchview_clear_text_content_description
 string searchview_navigation_content_description
-string select_image
+string select_option
 string side_sheet_accessibility_pane_title
 string side_sheet_behavior
 string start_over
@@ -4346,6 +4360,7 @@ style MaterialAlertDialog_MaterialComponents_Title_Panel
 style MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked
 style MaterialAlertDialog_MaterialComponents_Title_Text
 style MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked
+style NextScreenBtn
 style Platform_AppCompat
 style Platform_AppCompat_Light
 style Platform_MaterialComponents

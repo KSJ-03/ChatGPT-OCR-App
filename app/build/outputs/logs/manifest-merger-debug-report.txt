@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-74:12
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:2:1-74:12
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\kulde\.gradle\caches\transforms-3\e162d3253fd49beed93776ab785e34cc\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kulde\.gradle\caches\transforms-3\731ca02731c30be89f87eca85f670195\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.mlkit:camera:16.0.0-beta3] C:\Users\kulde\.gradle\caches\transforms-3\6f5d03f50a9df77c033105e963f0d67a\transformed\jetified-camera-16.0.0-beta3\AndroidManifest.xml:2:1-8:12
@@ -106,31 +106,31 @@ MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\kulde\.gradle\cach
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\kulde\.gradle\caches\transforms-3\e07aafc976f2436e40a40612aa2185cf\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\kulde\.gradle\caches\transforms-3\1a277068338a123997a23ceb61920f4b\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\kulde\.gradle\caches\transforms-3\f2029f094e831aea5bea35e859fc9087\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:2:1-74:12
 	package
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:5:5-43
-		INJECTED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:4:5-43
+		INJECTED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-74:12
-		INJECTED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:2:1-74:12
+		INJECTED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:4:5-51
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-74:12
-		INJECTED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:2:1-74:12
+		INJECTED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:3:5-63
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:6:5-35
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:5:5-35
 uses-sdk
-ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:12:5-16:60
-INJECTED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:12:5-16:60
-INJECTED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:12:5-16:60
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:13:5-182
+INJECTED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:13:5-182
+INJECTED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:13:5-182
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\kulde\.gradle\caches\transforms-3\e162d3253fd49beed93776ab785e34cc\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\kulde\.gradle\caches\transforms-3\e162d3253fd49beed93776ab785e34cc\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kulde\.gradle\caches\transforms-3\731ca02731c30be89f87eca85f670195\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
@@ -335,24 +335,24 @@ MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\kulde\.gradle\c
 MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\kulde\.gradle\caches\transforms-3\1a277068338a123997a23ceb61920f4b\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\kulde\.gradle\caches\transforms-3\f2029f094e831aea5bea35e859fc9087\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\kulde\.gradle\caches\transforms-3\f2029f094e831aea5bea35e859fc9087\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:12:5-16:60
-INJECTED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:12:5-16:60
+INJECTED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:13:5-182
+INJECTED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:13:5-182
 	tools:overrideLibrary
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:12:5-16:60
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:13:15-179
 	android:targetSdkVersion
-		INJECTED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:12:5-16:60
-		INJECTED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:13:5-182
+		INJECTED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:12:5-16:60
-		INJECTED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:13:5-182
+		INJECTED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml
 uses-feature#android.hardware.camera
-ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:18:5-59
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:15:5-60
 	android:name
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:18:19-57
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:15:19-57
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:20:5-66
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:17:5-67
 MERGED from [com.google.mlkit:object-detection:17.0.0] C:\Users\kulde\.gradle\caches\transforms-3\74f2f300922fd55c02b15facf9a2b505\transformed\jetified-object-detection-17.0.0\AndroidManifest.xml:8:5-67
 MERGED from [com.google.mlkit:object-detection:17.0.0] C:\Users\kulde\.gradle\caches\transforms-3\74f2f300922fd55c02b15facf9a2b505\transformed\jetified-object-detection-17.0.0\AndroidManifest.xml:8:5-67
 MERGED from [com.google.mlkit:vision-internal-vkp:18.2.2] C:\Users\kulde\.gradle\caches\transforms-3\9e28c0fc5f6dcf8c8d1969c802778ce5\transformed\jetified-vision-internal-vkp-18.2.2\AndroidManifest.xml:8:5-67
@@ -362,21 +362,29 @@ MERGED from [com.google.mlkit:pose-detection-common:18.0.0-beta3] C:\Users\kulde
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\kulde\.gradle\caches\transforms-3\88589421b349c63fb5c4b4f2e11c7fef\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\kulde\.gradle\caches\transforms-3\88589421b349c63fb5c4b4f2e11c7fef\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
 	android:name
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:20:22-64
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:17:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:21:5-80
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:18:5-81
 	android:name
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:21:22-78
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:18:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:22:5-79
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:19:5-80
 	android:name
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:22:22-77
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:19:22-77
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:23:5-64
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:20:5-65
 	android:name
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:23:22-62
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:20:22-62
+queries
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:22:5-26:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:23:9-25:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:24:21-70
 application
-ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:25:5-67:19
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:28:5-72:19
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\kulde\.gradle\caches\transforms-3\e162d3253fd49beed93776ab785e34cc\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\kulde\.gradle\caches\transforms-3\e162d3253fd49beed93776ab785e34cc\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kulde\.gradle\caches\transforms-3\731ca02731c30be89f87eca85f670195\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
@@ -450,73 +458,79 @@ MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\kulde\.gradle\c
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] C:\Users\kulde\.gradle\caches\transforms-3\6492d4be1dafc14eeb126acfa6937b10\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:28:9-41
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:31:9-36
 	android:icon
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:27:9-44
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:30:9-44
 	android:theme
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:29:9-47
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:32:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:33:9-44
 	android:name
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:26:9-61
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:29:9-61
+activity#com.google.mlkit.vision.demo.kotlin.activity.OutputActivity
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:35:13-59
+activity#com.google.mlkit.vision.demo.kotlin.activity.OptionSelectionActivity
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:37:9-39:40
+	android:exported
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:38:13-68
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:31:9-33:68
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:41:9-43:69
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\kulde\.gradle\caches\transforms-3\01e7aabd26098e927a71d26106a7a7ef\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\kulde\.gradle\caches\transforms-3\01e7aabd26098e927a71d26106a7a7ef\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:33:13-66
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:43:13-66
 	android:name
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:32:13-58
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:42:13-58
 meta-data#com.google.mlkit.vision.DEPENDENCIES
-ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:37:9-39:129
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:48:9-50:130
 	android:value
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:39:13-127
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:50:13-127
 	android:name
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:38:13-64
-activity#com.google.mlkit.vision.demo.EntryChoiceActivity
-ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:41:9-49:20
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:49:13-64
+activity#com.google.mlkit.vision.demo.kotlin.activity.EntryChoiceActivity
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:52:9-61:20
 	android:exported
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:43:13-36
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:54:13-36
 	android:theme
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:44:13-44
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:55:13-44
 	android:name
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:42:13-48
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:53:13-64
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:45:13-48:29
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:56:13-60:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:46:17-68
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:57:17-69
 	android:name
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:46:25-66
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:57:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:47:17-76
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:59:17-77
 	android:name
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:47:27-74
-activity#com.google.mlkit.vision.demo.kotlin.ChooserActivity
-ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:52:9-55:20
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:59:27-74
+activity#com.google.mlkit.vision.demo.kotlin.activity.ChooserActivity
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:62:9-64:40
 	android:exported
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:54:13-37
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:64:13-37
 	android:name
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:53:13-51
-activity#com.google.mlkit.vision.demo.kotlin.StillImageActivity
-ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:57:9-61:20
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:63:13-60
+activity#com.google.mlkit.vision.demo.kotlin.activity.StillImageActivity
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:65:9-68:47
 	android:exported
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:59:13-37
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:67:13-37
 	android:theme
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:60:13-44
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:68:13-44
 	android:name
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:58:13-54
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:66:13-63
 activity#com.google.mlkit.vision.demo.preference.SettingsActivity
-ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:63:9-65:39
+ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:69:9-71:40
 	android:exported
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:65:13-37
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:71:13-37
 	android:name
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:64:13-56
-queries
-ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:68:5-72:15
-intent#action:name:android.media.action.IMAGE_CAPTURE
-ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:69:9-71:18
-action#android.media.action.IMAGE_CAPTURE
-ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:70:13-73
-	android:name
-		ADDED from C:\Users\kulde\Downloads\mlkit-master\mlkit-master\android\vision-quickstart\app\src\main\AndroidManifest.xml:70:21-70
+		ADDED from C:\Users\kulde\AndroidStudioProjects\ChatGPT-OCR-App\app\src\main\AndroidManifest.xml:70:13-56
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.mlkit:object-detection:17.0.0] C:\Users\kulde\.gradle\caches\transforms-3\74f2f300922fd55c02b15facf9a2b505\transformed\jetified-object-detection-17.0.0\AndroidManifest.xml:7:5-79
 MERGED from [com.google.mlkit:vision-internal-vkp:18.2.2] C:\Users\kulde\.gradle\caches\transforms-3\9e28c0fc5f6dcf8c8d1969c802778ce5\transformed\jetified-vision-internal-vkp-18.2.2\AndroidManifest.xml:7:5-79
